@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3d4e16c-8de9-46f1-8408-d9981637126e" name="Default Changelist" comment="" />
+    <list default="true" id="f3d4e16c-8de9-46f1-8408-d9981637126e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +72,32 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1680650727">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/view/View.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="125">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -97,7 +117,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Employer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
+            <state relative-caret-position="575">
               <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
             </state>
           </provider>
@@ -106,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Customer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
+            <state relative-caret-position="1225">
               <caret line="51" column="19" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -118,23 +138,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Company.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-              <folding>
-                <element signature="e#649#650#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-                <element signature="e#1452#1453#0" expanded="true" />
-                <element signature="e#1496#1497#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="1200">
+              <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <state relative-caret-position="375">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -151,6 +165,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -162,10 +179,10 @@
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/Employer.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Teacher.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Customer.java" />
-        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Employer.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Company.java" />
         <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/controller/Controller.java" />
+        <option value="$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java" />
       </list>
     </option>
   </component>
@@ -187,12 +204,14 @@
     <option name="width" value="1225" />
     <option name="height" value="1090" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -236,8 +255,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,16 +312,18 @@
       <workItem from="1545894792510" duration="9560000" />
       <workItem from="1545907820345" duration="2912000" />
       <workItem from="1551102540040" duration="3738000" />
+      <workItem from="1551168637441" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23066000" />
+    <option name="totallyTimeSpent" value="23101000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.10604027" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10604027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -375,10 +395,34 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/Logic.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/controller/Controller.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        <state relative-caret-position="500">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Employer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1225">
+          <caret line="51" column="19" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -387,45 +431,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Company.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="52" column="43" lean-forward="true" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
-          <folding>
-            <element signature="e#649#650#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-            <element signature="e#1452#1453#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="1200">
+          <caret line="52" column="43" selection-start-line="52" selection-start-column="43" selection-end-line="52" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Customer.java">
+    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/logic/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="51" column="19" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/entity/Employer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/view/View.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bntu/fitr/povt/tnnf/javalabs/lab10/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="375">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

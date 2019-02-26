@@ -13,10 +13,6 @@ public class Manager {
         return allSalary;
     }
 
-//    public  static double calculateMiddleSalary(){
-//        double middleSalary = allSalary/ Employer.employerAmount;
-//        return middleSalary;
-//    }
 
     public static int calculateMiddleSalary(Company company){
         return calculateCommonSalary(company)/company.countOfEmployers;

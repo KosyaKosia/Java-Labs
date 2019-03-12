@@ -17,6 +17,7 @@ public class Company {
     public int salaryOfEmp;
     public int bonus;
 
+    public StatAboutEmpSalary statAboutEmpSalary = new StatAboutEmpSalary();
 
     public Company() {
     }
@@ -27,6 +28,7 @@ public class Company {
 
     public void addEmployer(Employer emp1) {
         masOfEmployers[countOfEmployers++] = emp1;
+        statAboutEmpSalary.addEmployer(emp1);
     }
 
 

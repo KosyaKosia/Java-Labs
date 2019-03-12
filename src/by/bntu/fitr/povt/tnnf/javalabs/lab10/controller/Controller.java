@@ -10,17 +10,17 @@ public class Controller {
     public static void main(String[] args) {
         Company company = new Company("OurCompany");
         Customer customer = new Customer();
-        company.addEmployer( new Employer("Loshic", 0, "Cleaner", 20, 3));
-        company.addEmployer( new Employer("Tereshko", 0, "Manager", 30, 5));
-        company.addEmployer(new Employer("Ivanov", 0, "Employer", 40, 5));
+        company.addEmployer( new Employer("Loshic", 150, "Cleaner", 20, 3));
+        company.addEmployer( new Employer("Tereshko", 300, "Manager", 30, 5));
+        company.addEmployer(new Employer("Ivanov", 250, "Employer", 40, 5));
         company.addEmployer(new Employer("Sidorov", 0, "designer", 38, 10));
-        company.addEmployer( new Employer("Polochenko", 0, "Economist", 25, 2));
+        company.addEmployer( new Employer("Polochenko", 130, "Economist", 25, 2));
 
         double allSalary = Manager.calculateCommonSalary(company);
         double middleSalary = Manager.calculateMiddleSalary(company);
-
+        System.out.println(company.statAboutEmpSalary.getLine(2));
         View.print(company.masOfEmployers[2].stayFriend() + "\n");
-        View.print(company + "");
+        View.print("");
         int task = customer.giveCustoms();
         View.print("You need to do this task: " + task + "\n");
         company.masOfEmployers[0].makeFail();
